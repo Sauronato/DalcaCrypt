@@ -47,9 +47,9 @@
 ## Uso
 Para ejecutar el programa, simplemente ejecuta el script `dalcacrypt.py`:
 
-    ```bash
+  ```bash
     python dalcacrypt.py
-    ```
+  ```
     
 ## Funcionalidades
 
