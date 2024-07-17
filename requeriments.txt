@@ -1,0 +1,3 @@
+﻿cryptography
+windows-curses
+pyperclip
